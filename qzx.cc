@@ -46,7 +46,7 @@ main (int argc, char *argv[])
 	printHello(name);
         printHello(number);
 	//std::cout<<"hello commit"<<std::endl;
-
+//我是最胖的！！！！
 	Simulator::Stop(Seconds(5));
 	Simulator::Run ();
 	Simulator::Destroy ();
